@@ -18,3 +18,5 @@ Kindly create a pull request to either complete the challenges and/or contribute
 - Commit
 - Push to your  commit to your remote origin
 - Submit a pull request to the original repo (Upstream)
+
+`This is the template version`
