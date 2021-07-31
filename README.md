@@ -1,4 +1,4 @@
-# totemshub
+# Totemshub
 
 ## About
 Open source project to train first timers on how to version control software projects, contribute to open source and collaborate using Git and GitHub.
