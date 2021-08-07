@@ -11,7 +11,9 @@ function intro( name) {
 
 console.log(intro("Damola"))
 
+
 // make a function call using your name as in line 12
 // Moyosore
+console.log(intro("Moyosore"));
 // Ola
 // Isaac
