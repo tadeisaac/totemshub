@@ -13,5 +13,6 @@ console.log(intro("Damola"))
 
 // make a function call using your name as in line 12
 console.log(intro("Moyosore"));
-// Ola
+console.log(intro("Ola"));
 // Isaac
+
