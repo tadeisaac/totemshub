@@ -1,5 +1,5 @@
 ### Task
-Follow and do each of the projects in the following youtube.
+Follow and do each of the projects in the following youtube video.
 You can get the video [here](https://youtu.be/3PHXvlpOkf4?t=23420).
 
 ### Guide
