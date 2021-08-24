@@ -54,7 +54,7 @@ Sample Output 0
 */
 
 function compareTriplets(a, b){
-    // Write your code here.  
+    // Write your code here.
         let points = [0, 0];
         for (let i = 0; i < 3; i++) {
             if (a[i] > b[i]) {
